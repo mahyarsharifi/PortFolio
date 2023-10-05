@@ -1,0 +1,209 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\MyPortfolio.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyPortfolio.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\ie\\PIE.htc",
+      "PackagePath": "staticwebassets\\css\\ie\\PIE.htc"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\ie\\backgroundsize.min.htc",
+      "PackagePath": "staticwebassets\\css\\ie\\backgroundsize.min.htc"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\ie\\html5shiv.js",
+      "PackagePath": "staticwebassets\\css\\ie\\html5shiv.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\ie\\v8.css",
+      "PackagePath": "staticwebassets\\css\\ie\\v8.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\images\\overlay.png",
+      "PackagePath": "staticwebassets\\css\\images\\overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\skel.css",
+      "PackagePath": "staticwebassets\\css\\skel.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\style-large.css",
+      "PackagePath": "staticwebassets\\css\\style-large.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\style-medium.css",
+      "PackagePath": "staticwebassets\\css\\style-medium.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\style-small.css",
+      "PackagePath": "staticwebassets\\css\\style-small.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\style-xlarge.css",
+      "PackagePath": "staticwebassets\\css\\style-xlarge.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\style-xsmall.css",
+      "PackagePath": "staticwebassets\\css\\style-xsmall.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\fulls\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\fulls\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\fulls\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\fulls\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\fulls\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\fulls\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\thumbs\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\thumbs\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\thumbs\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\thumbs\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\thumbs\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\images\\thumbs\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\init.js",
+      "PackagePath": "staticwebassets\\js\\init.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\jquery.poptrox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.poptrox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\js\\skel.min.js",
+      "PackagePath": "staticwebassets\\js\\skel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\sass\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sass\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\sass\\_vars.scss",
+      "PackagePath": "staticwebassets\\sass\\_vars.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\sass\\ie\\v8.scss",
+      "PackagePath": "staticwebassets\\sass\\ie\\v8.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\sass\\style-large.scss",
+      "PackagePath": "staticwebassets\\sass\\style-large.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\sass\\style-medium.scss",
+      "PackagePath": "staticwebassets\\sass\\style-medium.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\sass\\style-small.scss",
+      "PackagePath": "staticwebassets\\sass\\style-small.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\sass\\style-xlarge.scss",
+      "PackagePath": "staticwebassets\\sass\\style-xlarge.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\sass\\style-xsmall.scss",
+      "PackagePath": "staticwebassets\\sass\\style-xsmall.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mahyar\\Desktop\\Projects\\MyPortfolio\\MyPortfolio\\wwwroot\\sass\\style.scss",
+      "PackagePath": "staticwebassets\\sass\\style.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MyPortfolio.props",
+      "PackagePath": "build\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MyPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MyPortfolio.props",
+      "PackagePath": "buildTransitive\\MyPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
